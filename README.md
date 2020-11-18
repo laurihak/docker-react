@@ -19,6 +19,9 @@ You will also see any lint errors in the console.
 
 ## Set up for docker
 
+Link for Dockerfile: https://hub.docker.com/r/laurihakala/docker2020
+
+## Explanation for making your own dockerfile
 You need node to install and run the project, for example node:alpine from dockerhub. \
 If you are running on node alone you need to first copy/fork the project to your host machine. \
 Then you can use Dockerfile to copy the project straight to the image.
